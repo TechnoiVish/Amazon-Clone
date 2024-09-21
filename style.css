@@ -5,6 +5,7 @@
 
 }
 .navbar{
+ width: -webkit-fill-available;
   height: 60px;
   background-color: black;
   color: white;
