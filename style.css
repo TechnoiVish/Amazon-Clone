@@ -4,6 +4,10 @@
   border: border-box;
 
 }
+body{
+  width: fit-content;
+  margin: auto;
+}
 .navbar{
  width: -webkit-fill-available;
   height: 60px;
